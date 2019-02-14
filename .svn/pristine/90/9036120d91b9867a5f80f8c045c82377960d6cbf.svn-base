@@ -1,0 +1,15 @@
+:global {
+    .spe {
+        width: 60px !important;
+        height: 60px !important;
+    }
+    .am-result {
+        padding-top: 50% !important;
+    }
+    @media (-webkit-min-device-pixel-ratio: 2), not all, (min-resolution: 2dppx){
+        html:not([data-scale]) .am-result::after {
+            height: 0 !important;
+        }
+    }
+
+}

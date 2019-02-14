@@ -1,0 +1,21 @@
+:global{
+    .am-navbar{
+        background-color: #248bd1;
+    }
+    .am-grid .am-flexbox{
+        background: none;
+    }
+}
+.main{
+    background: url(./../../image/bg_01.png) no-repeat;
+}
+.main_title {
+    background: url(./../../image/hd_01.png) no-repeat;
+    border-bottom: 1px solid rgba(255,255,255,0.3);
+    width: 100%;
+    color: rgb(255, 255, 255);
+    font-size: small;
+    font-weight: 500;
+    line-height: 48px;
+    padding-left: 16px;
+}

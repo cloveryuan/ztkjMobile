@@ -1,0 +1,54 @@
+.top_left{
+    background: url(./../../image/hm_icon_shishi_n.png) no-repeat;
+    cursor: pointer;
+    width: 100%;
+    margin: 4px 4px;
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+}
+.top_right{
+    background: url(./../../image/hm_icon_gaojing_n.png) no-repeat;
+    cursor: pointer;
+    width: 100%;
+    margin: 4px 4px;
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+}
+.bottom_left{
+    background: url(./../../image/hm_icon_zaixian_n.png) no-repeat;
+    cursor: pointer;
+    width: 100%;
+    margin: 4px 4px;
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+}
+.bottom_right{
+    background: url(./../../image/hm_icon_yuancheng_n.png) no-repeat;
+    cursor: pointer;
+    width: 100%;
+    margin: 4px 4px;
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+}
+.foot{
+    color: #888;
+    font-size: 14px;
+    margin: 3vw 0;
+}
+.classify{
+    width: 100%;
+}
+.alike_flex{
+    display: flex;
+    flex-basis: 100% !important;
+}
+:global {
+    .am-flexbox{
+        flex-grow: 1;
+        align-content: center
+    }
+}

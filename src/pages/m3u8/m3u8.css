@@ -1,0 +1,24 @@
+.h5video {
+	width: 100%;
+    height: 320px;
+    border: 1px solid black;
+	background-color:#000000;
+}
+
+.h5video1 {
+    height: 100%;
+    border: 1px solid black;
+	background-color:#000000;
+}
+
+.h5videodiv{
+	width: 100%;
+    display: inline-block;
+	position:relative;
+}
+
+.h5videodiv1{
+    height: 100%;
+	position:relative;
+	background-color:#000000;
+}
